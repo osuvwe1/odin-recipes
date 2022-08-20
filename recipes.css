@@ -5,6 +5,8 @@ html
 img
 {
     border-radius: 10%;
+    width:auto;
+    height:auto;
 }
 h1
 {
