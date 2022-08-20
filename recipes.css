@@ -1,0 +1,39 @@
+html
+{
+    background-color: bisque;
+}
+img
+{
+    border-radius: 10%;
+}
+h1
+{
+    color:  rgb(77, 73, 73);
+    font-family: 'FreeMono', 'monospace';
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 30px
+}
+h3
+{
+    color:  rgb(77, 73, 73);
+    font-family: 'FreeMono', 'monospace';
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 30px  
+}
+p
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+ul
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+ol
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}

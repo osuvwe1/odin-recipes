@@ -1,0 +1,51 @@
+html
+{
+    background-color: bisque;
+}
+h1
+{
+    color:  rgb(77, 73, 73);
+    text-align: center;
+    font-family: 'FreeMono', 'monospace';
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 70px
+}
+p
+{
+    text-align:center;
+}
+img
+{
+    border-radius: 10%;
+    margin-left: 10%;
+}
+ul
+{
+    list-style-type: none;
+    line-height: 2.0em;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a
+{
+    text-decoration: none;
+    color: rgb(77, 73, 73);
+}
+a:hover
+{
+    color: rgb(84, 84, 172);
+}
+.front
+{
+    margin-left: 10%;
+}
+.mid
+{
+    margin-left: 40%;
+}
+.end
+{
+    margin-left: 60%;
+}
+
